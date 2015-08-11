@@ -4,9 +4,9 @@
 
 1. [ ] 09:30 - Standup Meeting
 
-2. [ ] 09:45 - Recap on the GitHub assignment
+2. [ ] 09:45 - Recap on the 01-GitHub assignment
 
-3. [ ] 10:00 - Rundown on new GitHub repository
+3. [ ] 10:00 - Introduction to our class repository on GitHub
 
 4. [ ] 10:30 - Install Visual Studio Code
 
