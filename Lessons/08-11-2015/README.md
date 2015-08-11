@@ -2,7 +2,7 @@
 
 # Today's Goals
 
-1. [ ] 09:30 - Standup Meeting
+1. [x] 09:30 - Standup Meeting
 
 2. [ ] 09:45 - Recap on the GitHub assignment
 
