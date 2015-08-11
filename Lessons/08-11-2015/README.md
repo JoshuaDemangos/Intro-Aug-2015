@@ -2,41 +2,31 @@
 
 # Today's Goals
 
-1. Standup Meeting (9:30AM)
-	* What did you do yesterday?
-	* What will you do today?
-	* What are you currently stuck on?
-	* What was your most recent lightbulb moment?
+1. [ ] 09:30 - Standup Meeting
 
-2. Recap on the GitHub assignment (9:45AM)
+2. [ ] 09:45 - Recap on the GitHub assignment
 
+3. [ ] 10:00 - Rundown on new GitHub repository
 
-3. Rundown on new GitHub repository (10AM)
+4. [ ] 10:30 - How to Google
 
+5. [ ] 11:00 - Work on HTML Site (11AM)
 
-3. How to Google (10:30AM)
+**Lunch**
 
+6. [ ] 13:00 - Introduction to JavaScript (1PM)
+	0. [ ] Using JSFiddle to practice Javascript programming
+	1. [ ] Printing to a console
+	2. [ ] Getting the length of a string
+	3. [ ] Basic math
+	4. [ ] Comments
+	5. [ ] Variables (Numbers, strings, booleans)
+	6. [ ] If statements
+	7. [ ] Switch statements
+	8. [ ] Looping (While, For)
+	9. [ ] Functions
+	10. [ ] Arrays
+	10. [ ] Dialogs (Alert, Confirm)
+	11. [ ] DOM Events 
 
-4. Work on HTML Site (11AM)
-
-
--- Break for Lunch --
-
-
-5. Introduction to JavaScript (1PM)
-	0. Using JSFiddle to practice Javascript programming
-	1. Printing to a console
-	2. Getting the length of a string
-	3. Basic math
-	4. Comments
-	5. Variables (Numbers, strings, booleans)
-	6. If statements
-	7. Switch statements
-	8. Looping (While, For)
-	9. Functions
-	10. Arrays
-	10. Dialogs (Alert, Confirm)
-	11. DOM Events 
-
-
-6. Javascript Assignment on GitHub (2PM)
+7. [ ] 14:00 - Javascript Assignment on GitHub
