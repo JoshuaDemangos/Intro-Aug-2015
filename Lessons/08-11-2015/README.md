@@ -24,7 +24,6 @@
 
 
 5. Introduction to JavaScript (1PM)
-<!--
 	0. Using JSFiddle to practice Javascript programming
 	1. Printing to a console
 	2. Getting the length of a string
@@ -38,7 +37,6 @@
 	10. Arrays
 	10. Dialogs (Alert, Confirm)
 	11. DOM Events 
- -->
 
 
 6. Javascript Assignment on GitHub (2PM)
