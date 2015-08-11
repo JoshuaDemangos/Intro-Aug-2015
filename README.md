@@ -11,7 +11,7 @@ I'll be adding a subfolder to the Lessons folder every day, with a text file con
 
 If you get stuck with a project outside of class or have any course related questions, feel free to ask me or your fellow students any questions in the Slack chatroom or email me at cameron@origincodeacademy.com.
 
-Cheers
+Cheers,
 Cameron
 
 * Twitter: [@cameronwilby](https://twitter.com/cameronwilby)
