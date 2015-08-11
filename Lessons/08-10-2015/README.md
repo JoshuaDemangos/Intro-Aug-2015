@@ -1,5 +1,13 @@
 # 08-10-2015 Class
 
+## Todays Goals
+
+* Standup meeting
+* Orientation presentation
+* GitHub presentation
+* HTML/CSS Presentation
+* Assign GitHub homework
+
 ## What was covered
 * We had our first standup meeting where we just introduced ourselves seeing as it was the first day.
 
