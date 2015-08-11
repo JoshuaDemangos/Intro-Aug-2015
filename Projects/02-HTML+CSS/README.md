@@ -36,3 +36,9 @@ By completing this assignment, you will learn the foundation of building a websi
 
 #Turn in instructions
 Once you have completed this assignment, push your changes to GitHub and create an issue in the class repository called **02-HTML+CSS (Your Name Here)**.
+
+In this issue, copy and paste the URL to your repository, and answer the following questions.
+
+1. How hard was the assignment?
+2. What did you get stuck on? 
+3. What did you learn?
