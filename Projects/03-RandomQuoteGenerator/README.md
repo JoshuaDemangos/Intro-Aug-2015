@@ -20,8 +20,9 @@ By completing this assignment, you will have learned:
 * [ ] Add your site.css file to your index.html file using a link element in the head section.
 * [ ] Add jQuery to your index.html file.
 * [ ] Add your site.js file into your index.html file.
+* [ ] Build the application to the specifications defined below.
 
-#Requirements
+#Specifications
 
 ##There needs to be a button to generate a random quote.
 Here is an example of the HTML you would use to add the button to the page
