@@ -35,16 +35,7 @@ By completing this assignment, you will learn the foundation of building a websi
 * [ ] Style your pages however you see fit. You must make use of an **element selector**, a **class selector** and an **id selector**.
 
 #Turn in instructions
-#Turn in instructions
-
 * Push your changes to GitHub 
-* [Click here to create an issue in the class repository](
-https://github.com/OriginCodeAcademy/Intro-Aug-2015/issues/new
-?title=02-HTML+CSS
-&body=Repository URL%0A[Insert your repository URL here]%0A%0A
-1. How hard was the assignment?%0A%0A
-2. What did you get stuck on the most?%0A%0A
-3. What did you learn?
-)
+* [Click here to create an issue in the class repository](https://github.com/OriginCodeAcademy/Intro-Aug-2015/issues/new?title=02-HTML+CSS&body=Repository URL%0A[Insert your repository URL here]%0A%0A1. How hard was the assignment?%0A%0A2. What did you get stuck on the most?%0A%0A3. What did you learn?)
 	* Include a link to your repository in the description
 	* Answer the questions filled out for you in the description
