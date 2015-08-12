@@ -23,15 +23,16 @@
 	
 **Break for Lunch**
 
-4. [ ] 13:00 - Work on jQuery assignment
+4. [X] 13:00 - Work on jQuery assignment
 
-5. [ ] 13:30 - Early Finish
+5. [X] 13:30 - Early Finish
 
 ## What was covered
 * We had our standup meeting where we discussed our current status
 * We did an introduction to jsFiddle, and learned some basic JavaScript
 	* We increased the pace and went from JavaScript straight to jQuery.
 * We started work on the jQuery codecademy assignment in preparation for tomorrows project.
+* We took a brief look at the 03-RandomQuoteGenerator project. If the jQuery codecademy assignment is not finished, it will be tough to finish this project.
 
 ## Assigned Work
 * Finish the jQuery Codecademy assignment. This will ensure you're ready to build the random quote generator.
