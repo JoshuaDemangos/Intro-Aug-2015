@@ -83,8 +83,7 @@ Second, you will need to figure out how to change the contents of an HTML button
 #Turn in instructions
 
 * Push your changes to GitHub 
-* Create an issue in our [Intro-Aug-2015](https://github.com/OriginCodeAcademy/Intro-Aug-2015) repository called **03-RandomQuoteGenerator (Your Name Here)**.
-	* Copy and paste the URL of your projects repository into the description of this issue.
+* [Click here to create an issue in the class repository](https://github.com/OriginCodeAcademy/Intro-Aug-2015/issues/new?title=03-RandomQuoteGenerator)
 	* Answer the following questions
 		1. What was the best thing you learned in this assignment?
 		2. What was the hardest part about this assignment?
