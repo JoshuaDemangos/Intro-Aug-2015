@@ -1,0 +1,37 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: beige;
+}
+
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;	
+}
+
+#quoteContainer {
+	height: 300px;
+	border: 1px solid black;
+	display: table-cell;
+	vertical-align: middle;
+	width: 960px;
+	padding: 20px;
+	border-radius: 6px;
+	
+	background: rgba(255,255,255,1);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(47%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
+}
+
+#generateButton {
+	margin-top: 20px;
+	width: 300px;
+	height: 75px;
+	font-size: 20px;
+}
