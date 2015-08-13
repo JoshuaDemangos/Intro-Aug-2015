@@ -18,8 +18,17 @@ By completing this assignment, you will have learned:
 * [ ] Create a **site.js** file in the **js** directory.
 * [ ] Create an **index.html** file in the root of your repository.
 * [ ] Add your site.css file to your index.html file using a link element in the head section.
+```html
+<link href="css/site.css" rel="stylesheet" />
+```
 * [ ] Add jQuery to your index.html file.
+```html
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
+```
 * [ ] Add your site.js file into your index.html file.
+```html
+<script src="js/site.js" type="text/javascript"></script>
+```
 * [ ] Build the application to the specifications defined below.
 
 #Specifications
