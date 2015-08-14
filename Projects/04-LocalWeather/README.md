@@ -1,7 +1,7 @@
 # Local Weather Project
 In this assignment, you will be creating a web application that consumes a Weather API to show the weather for a given city.
 
-**BEFORE YOU BEGIN THIS TASK**: Make sure you have completed ["How to use APIs with jQuery"](https://www.codecademy.com/courses/web-beginner-en-uCajg/0/1) on Codecademy. 
+Make sure you have completed ["How to use APIs with jQuery"](https://www.codecademy.com/courses/web-beginner-en-uCajg/0/1) on Codecademy. 
 
 Remember, **Read**, **Search**, **Ask**, **Post**. 
 If you get stuck, **Read** this document thoroughly. There's a good chance the answer to your question is here. If not, **Search** Google or Stack Overflow, **Ask** an instructor/fellow student for help, or **Post** a question to Stack Overflow.
