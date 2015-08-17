@@ -19,14 +19,6 @@ Nickels: 0
 Pennies: 3
 ```
 
-
-## Learning Goals
-By completing this assignment, you will have learned: 
-
-* How to read from/write to the Console
-* The difference between certain number types in C#.
-* How to use Visual Studio to write/debug C# code.
-
 ## Tasks
 
 **1. Set up your repository**
