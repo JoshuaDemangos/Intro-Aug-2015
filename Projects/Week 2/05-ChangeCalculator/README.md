@@ -1,7 +1,8 @@
-# Local Weather Project
-In this assignment, you will be creating a console application that works as follows:
+# Change Calculator
+In this assignment, you will be creating a console application that helps a store owner figure out how much change to give their customer.
 
-The user enters a **cost** and then the **amount** of money given. Your application must figure out the number of quarters, dimes, nickels and pennies needed to give the correct change.
+Here's how it should work - The store owner enters a **cost** of an item, followed by and then the **amount** of money given.<br /> 
+Your application must then figure out the change, and also tell the store owner the number of quarters, dimes, nickels and pennies needed to give the customer the correct change.
 
 For example:
 ```
