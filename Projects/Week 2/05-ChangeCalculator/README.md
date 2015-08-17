@@ -36,11 +36,12 @@ By completing this assignment, you will have learned:
 * Open Visual Studio 2015 Community
 * Click File > New > Project
 * Select **Console Application** (If you do not see Console Application, make sure you have selected Visual C# on the left)
-* Enter **ChangeCalculator** in the Name field
-* Enter **C:\dev\projects\05-ChangeCalculator** in the Location field
+* Enter ```ChangeCalculator``` in the Name field
+* Enter ```C:\dev\projects\05-ChangeCalculator``` in the Location field
 * Click OK to create the project
 
-** 3. Write the application **
+**3. Write the application**
+
 Here are some hints to get you started
 
 * You will need two variables to begin with.
