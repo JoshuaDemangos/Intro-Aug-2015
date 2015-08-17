@@ -96,6 +96,9 @@ To get weather for a city: ```/weather/city?name=<city_name>```
 
 To get weather using co-ordinates: ```/weather/coordinates?latitude=<latitude>&long=<longitude>```
 
+The icons that could possibly be returned from the API are
+```clear-day``` ```clear-night``` ```rain``` ```snow``` ```sleet``` ```wind``` ```fog``` ```cloudy``` ```partly-cloudy-day``` or ```partly-cloudy-night```
+
 
 **Example**
 
