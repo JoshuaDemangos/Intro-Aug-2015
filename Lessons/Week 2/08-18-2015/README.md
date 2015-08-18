@@ -16,14 +16,7 @@
 
 
 ## What was covered
-- We recapped on the 04-LocalWeather project
-- We extended your 04-LocalWeather projects to include images and submitted to GitHub
-- We did an introduction to the .NET framework and C#
-- We installed Visual Studio Community and the .NET Framework to our machines
-- We wrote a basic hello world application
-- We wrote a tile calculator in Visual Studio
-- We finished the .NET Codecademy course to familiarize ourselves more with C#
-- 05-ChangeCalculator was assigned.
+N/A
 
 ## Assigned Work
-* 05-ChangeCalculator
+* 06-QuoteTracker
