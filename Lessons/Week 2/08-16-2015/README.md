@@ -2,7 +2,7 @@
 
 # Today's Goals
 
-1. [X] 09:00 - Standup Meeting
+1. [X] 09:00 - Standup Meeting blah
 
 2. [X] 09:05 - Recap on 04-LocalWeather
 
