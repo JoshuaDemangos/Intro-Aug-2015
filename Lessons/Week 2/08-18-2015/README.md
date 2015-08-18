@@ -10,13 +10,13 @@
 	
 **Break for Lunch**
 
-4. [ ] 13:00 - Introduction to 06-QuoteTracker
+4. [ ] 13:00 - Introduction to 06-Notepad
 
-5. [ ] 13:30 - Work on 06-QuoteTracker
+5. [ ] 13:30 - Work on 06-Notepad
 
 
 ## What was covered
 N/A
 
 ## Assigned Work
-* 06-QuoteTracker
+* 06-Notepad
