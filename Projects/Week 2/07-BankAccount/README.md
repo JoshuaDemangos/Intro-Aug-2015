@@ -22,7 +22,7 @@ Write a console application in C# that uses a Bank class and an Account class to
 * Click OK to create the project
 
 
-** 3. Create an Account class**
+**3. Create an Account class**
 * Right click on your BankAccount project and select Add > Class (Alt+Shift+C)
 * Add Properties and Methods until your Account class is complete.
 * You will need the following private properties:
@@ -32,7 +32,7 @@ Write a console application in C# that uses a Bank class and an Account class to
 	* ```public decimal Deposit(decimal amount)``` (This method needs to add amount to the balance, then return the balance)
 	* ```public decimal GetCurrentBalance()``` (This method will simply return the balance)
 
-** 4. Create a Bank class**
+**4. Create a Bank class**
 * Right click on your BankAccount project and select Add > Class (Alt+Shift+C)
 * Add Properties and Methods until your Bank class is complete.
 * You will need the following private properties:
