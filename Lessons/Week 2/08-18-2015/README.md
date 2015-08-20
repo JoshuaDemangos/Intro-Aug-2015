@@ -16,7 +16,11 @@
 
 
 ## What was covered
-N/A
+- We recapped on our 05-ChangeCalculator project, finishing that up in class
+- We introduced the 06-Notepad project, and subsequently..
+- Object Oriented Programming - A way to express real life scenarios in a programming language
+- Pair Programming - "Two heads are better than one". A method used in the industry to write more robust code.
+- Windows Presentation Foundation - A user interface framework provided by Windows to create Windows Desktop applications
 
 ## Assigned Work
 * 06-Notepad
