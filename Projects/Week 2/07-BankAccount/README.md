@@ -24,17 +24,17 @@ Write a console application in C# that uses a Bank class and an Account class to
 
 **3. Create an Account class**
 * Right click on your BankAccount project and select Add > Class (Alt+Shift+C)
-* Add Properties and Methods until your Account class is complete.
+* Add a constructor that accepts the **name** of the account holder, and the **startingBalance** for the account. In this constructor, set your private properties to the parameters you passed into the constructor.
 * You will need the following private properties:
 	* ```private decimal balance;```
 * You will need the following public methods:
-	* ```public decimal Withdraw(decimal amount)``` (This method needs to subtract amount from the balance, then return the balance)
-	* ```public decimal Deposit(decimal amount)``` (This method needs to add amount to the balance, then return the balance)
-	* ```public decimal GetCurrentBalance()``` (This method will simply return the balance)
+	* ```public decimal Withdraw(decimal amount)``` (This method needs to subtract amount from the balance, then return the new balance)
+	* ```public decimal Deposit(decimal amount)``` (This method needs to add amount to the balance, then return the new balance)
+	* ```public decimal GetCurrentBalance()``` (This method will simply return the current balance)
 
 **4. Create a Bank class**
 * Right click on your BankAccount project and select Add > Class (Alt+Shift+C)
-* Add Properties and Methods until your Bank class is complete.
+* Add a constructor that accepts the **name** of the bank. In this constructor, set your private properties to the parameters you passed into the constructor.
 * You will need the following private properties:
 	* ```private List<Account> accounts``` (You need to INSTANTIATE this List<Account> in your constructor)
 * You will need the following public methods:
