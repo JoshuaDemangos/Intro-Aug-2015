@@ -20,4 +20,4 @@ At this point, your task will be to complete this game of pong. The scene has be
 
 The goal of this assignment is to do as much to this game of pong as you can until the end of class.
 
-There is a tutorial you can follow [here](http://noobtuts.com/unity/2d-pong-game), this tutorial was the basis for this project.
+There is a tutorial you can follow [here](http://noobtuts.com/unity/2d-pong-game), this tutorial was the basis for this project. You can follow along from the **Creating the Rackets** section. 
